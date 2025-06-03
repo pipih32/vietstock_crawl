@@ -24,9 +24,9 @@ This project automates the crawling of stock market news from [Vietstock.vn](htt
 ## Repository Structure
 
 vietstock-competitor-analyzer/
-├── vietstock_crawler.py         # Mã chính của bạn
-├── requirements.txt             # Các thư viện cần thiết
-├── README.md                    # Mô tả dự án
+├── vietstock_crawler.py       
+├── requirements.txt            
+├── README.md                    
 └── assets/
 
 ## How to Run
